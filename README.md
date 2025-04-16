@@ -94,7 +94,19 @@ activitymain.xml:
 
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/ee5ed232-aa2c-4091-9ca6-b7fbdc9e93a7)
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/3e1890fe-27eb-4f3a-a5aa-7f6ea202693f)
+
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/631f1f9f-93e1-4256-9f0e-ae69075e08a4)
 
 
